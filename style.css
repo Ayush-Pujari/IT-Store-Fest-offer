@@ -47,3 +47,6 @@ a{
     width: 330px;
    
 }
+nav{
+    max-width:100%;
+}
