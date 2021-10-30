@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
+#m{
+    font-family: 'Bebas Neue', cursive;;
+    font-size: 20px;
+}
+ 
+.contact_1 a{
+    color: black;
+    text-shadow: none;
+    font-family: 'Lobster', cursive;
+}
+.contact_1 h3{
+    display: inline;
+}
+#n{
+    font-size: 25px;
+    font-family: 'Bebas Neue', cursive;
+}
+#heading{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 25px;
+}
+.im{
+    margin-top:8px;
+    border: 1px solid;
+    height: 250px;
+    width: 380px;
+    max-width: 100%;
+}
+.imn{
+    margin-top: 8px;
+    border: 1px solid;
+    height: 250px;
+    width: 380px;
+    max-width: 100%;
+}
